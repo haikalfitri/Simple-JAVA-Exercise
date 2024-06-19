@@ -1,2 +1,1 @@
-## Description
-The project aims to illustrate basic concepts of programming in Java, particularly how objects are created and managed.
+This project helps in learning how to define classes, use constructors, set methods, get methods, and implement logic methods in Java programming.
